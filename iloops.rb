@@ -1,8 +1,8 @@
 class Iloops < Formula
   desc "InfiniteLoops command line toolbelt"
   homepage "http://infiniteloops.co/"
-  url "https://s3.amazonaws.com/iloops/toolbelt/iloops-1.1.1.tar.gz"
-  sha256 "f3ba4e2119a80a991bb08271b1d7241deb7860686b14f7ea28aa436f3bd14485"
+  url "https://s3.amazonaws.com/iloops/toolbelt/iloops-1.1.2.tar.gz"
+  sha256 "791ecc4c5ef06433f9660f459f221bcdb1cbf1b6dcf4c0a2fea95471f53455c5"
 
   depends_on :x11 # if your formula requires any X11/XQuartz components
 
